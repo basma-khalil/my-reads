@@ -12,6 +12,7 @@ That is my final assessment project for Udacity's React Fundamentals course.
   - [Installation](#installation)
   - [Contents](#contents)
   - [Create React App](#create-react-app)
+  - [Demo](#demo)
 
 ## Instructions
 
@@ -69,3 +70,7 @@ You can review **project rubric** from [here](https://review.udacity.com/#!/rubr
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebook/create-react-app/blob/main/packages/cra-template/template/README.md).
+
+## Demo
+
+For Demo of this template you can visit [https://myreadings.netlify.app](https://myreadings.netlify.app "Go to website")
