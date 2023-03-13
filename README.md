@@ -1,6 +1,6 @@
 # MyReads Project
 
-That is my final assessment project for Udacity's React Fundamentals course.
+This is my final assessment project for Udacity's React Fundamentals course.
 
 ## Table of Contents
 
@@ -12,10 +12,11 @@ That is my final assessment project for Udacity's React Fundamentals course.
   - [Installation](#installation)
   - [Contents](#contents)
   - [Create React App](#create-react-app)
+  - [Demo](#demo)
 
 ## Instructions
 
-That is my final assessment project for Udacity's React Fundamentals course. The project requires building a book tracking web app that allows to select and categorize books that have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that will be used to persist information while interacting with the application.
+The project requires building a book tracking web app that allows to select and categorize books that have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that will be used to persist information while interacting with the application.
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
@@ -69,3 +70,7 @@ You can review **project rubric** from [here](https://review.udacity.com/#!/rubr
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebook/create-react-app/blob/main/packages/cra-template/template/README.md).
+
+## Demo
+
+For Demo of this template you can visit [bk-myreads.netlify.app](https://bk-myreads.netlify.app "Go to website")
